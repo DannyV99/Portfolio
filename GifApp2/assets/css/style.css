@@ -1,0 +1,11 @@
+button,
+        div,
+        form,
+        input,
+        img {
+            margin: 10px;
+        }
+
+.container1{
+    background-color: rgb(230, 230, 230);
+}
